@@ -47,7 +47,7 @@ This assignment was divided into regression and classification studies:
 
 ---
 
-## Assignment 4: Clustering and Recommendations (In Progress)
+## Assignment 4: Clustering and Recommendations (A+)
 
 This assignment explores unsupervised learning and recommendation systems:
 - **Study 1:** Similarity measures across various attributes using methods like Jaccard, Cosine, Euclidean, and a text-based approach
