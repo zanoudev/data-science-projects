@@ -1,6 +1,6 @@
 # Data Science Assignments - CSI4142 (Winter 2025)
 
-This repository contains all four assignments for CSI4142: Fundamentals of Data Science. Each task was completed using Python in Jupyter Notebooks, with datasets sourced from Kaggle or other public repositories. Assignments 1–3 were graded A+. Assignment 4 is currently in progress.
+This repository contains all four assignments for CSI4142: Fundamentals of Data Science. Each task was completed using Python in Jupyter Notebooks, with datasets sourced from Kaggle or other public repositories. Assignments 1–4 were graded A+.
 
 ---
 
